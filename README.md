@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
+![snake gif](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg)
 ![Snake animation](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg)
 
