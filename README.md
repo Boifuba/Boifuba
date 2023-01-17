@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake gif](https://github.com/Boifuba/Boifuba/blob/output/github-contribution-grid-snake.gif)
-![snake dgif](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg?palette=github-dark)
 
-![GitHub Snake Light](https://github.com/Boifuba/Boifuba/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+![snake gif](https://github.com/Boifuba/Boifuba/blob/output/github-contribution-grid-snake.gif)
+
+![sf](https://github.com/Boifuba/Boifuba/Boifuba/blob/output/github-snake-dark.svg?palette=github-dark)
+
+![GiSnakeLight](https://github.com/Boifuba/Boifuba/blob/output/github-snake.svg#gh-light-mode-only)
+
+![GitHub](https://github.com/Boifuba/Boifuba/Boifuba/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 
