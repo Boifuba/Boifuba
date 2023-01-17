@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Boifuba/Boifuba/blob/output/github-contribution-grid-snake.gif)
 ![snake dgif](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg?palette=github-dark)
 
+![GitHub Snake Light](https://github.com/Boifuba/Boifuba/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/Boifuba/Boifuba/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
 
 <div> 
